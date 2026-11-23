@@ -1,6 +1,6 @@
 ---
 name: copy-criativos-cliente
-description: Orquestra a criação de copy e criativos para um cliente de tráfego pago do começo ao fim — monta ou lê o briefing do cliente (banco de lacunas) salvo no projeto, escolhe nível de consciência e ângulos, gera ganchos, escolhe formatos, escreve roteiros com "como fica na tela" e o que gravar, headlines da página, plano de teste em ABO com critério de validação e rotina de variação, com checagem de compliance (OAB, Meta, números reais). Use quando pedirem "cria criativos para o cliente X", "copys para o cliente", "pacote de criativos novos", "briefing de copy do cliente", "o criativo cansou, faz novos", "plano de teste de criativos" ou "roteiros e ganchos para a campanha de [produto]".
+description: Orquestra a criação de copy e criativos para um cliente de tráfego pago do começo ao fim — monta ou lê o briefing do cliente (banco de lacunas) salvo no projeto, escolhe nível de consciência e ângulos, gera ganchos, escolhe formatos, escreve roteiros com "como fica na tela" e o que gravar, headlines da página, plano de teste em ABO com critério de validação e rotina de variação, com checagem de compliance (conselhos de classe como a OAB, Meta, números reais). Use quando pedirem "cria criativos para o cliente X", "copys para o cliente", "pacote de criativos novos", "briefing de copy do cliente", "o criativo cansou, faz novos", "plano de teste de criativos" ou "roteiros e ganchos para a campanha de [produto]".
 ---
 
 # Copy e criativos para um cliente (orquestrador)
@@ -48,8 +48,8 @@ Skills que você usa:
 
 ### 7. Compliance (portão obrigatório antes de entregar)
 - Passe tudo por `references/compliance.md`. Classes:
-  - **A — advocacia para cliente final** (Código de Ética da OAB e Provimento 205/2021): o formato e o gancho servem; a promessa e a oferta não.
-  - **B — infoproduto/educação para profissionais** (inclusive advogados): regras normais da Meta e do consumidor.
+  - **A — profissão regulamentada anunciando para cliente final** (advocacia, saúde, contabilidade e outras com conselho de classe; o exemplo detalhado é o da OAB): o formato e o gancho servem; a promessa e a oferta não.
+  - **B — infoproduto/educação** (para consumidor ou para profissionais): regras normais da Meta e do consumidor.
   - **C — demais nichos**, com atenção a saúde, finanças e renda (políticas especiais da Meta).
 - Em todas: nenhum número inventado; prova só com dado real do cliente.
 
@@ -78,6 +78,6 @@ Skills que você usa:
 ## Referências
 
 - `references/template-briefing.md` — o banco de lacunas do cliente, pronto para copiar para o projeto.
-- `references/compliance.md` — OAB (Código de Ética e Provimento 205/2021), políticas da Meta, direitos e dados, regra de números.
+- `references/compliance.md` — profissões regulamentadas (com o exemplo da OAB), políticas da Meta, direitos e dados, regra de números.
 - `references/plano-de-teste.md` — validação em ABO, critérios, quando adaptar a régua ao funil do cliente, escala e registro.
 - `references/formato-de-entrega.md` — esqueleto do arquivo de entrega.

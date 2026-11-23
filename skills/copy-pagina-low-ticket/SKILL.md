@@ -31,8 +31,8 @@ Produto barato não precisa de meia hora de argumento. A página é curta (cerca
 
 ## Compliance (curto)
 
-- **Advocacia para cliente final** (Código de Ética da OAB e Provimento 205/2021): esta skill **não** serve para página de serviço jurídico a cliente final — lá não pode haver preço, promessa de resultado, condição de pagamento nem captação mercantil. Use página informativa (e a skill `lp-captacao` para captação com WhatsApp), com conteúdo sóbrio.
-- **Infoproduto (inclusive para advogados ou outros profissionais):** regras da Meta e do Código de Defesa do Consumidor. Sem antes e depois pessoal, sem promessa de renda ou cura, sem "oferta por tempo limitado" falsa, sem preço "de" que nunca existiu, sem depoimento inventado, rodapé de não afiliação ao Facebook e aviso de que resultados variam. Modelos de contrato e documentos: avisar que são referência e precisam de adaptação ao caso.
+- **Profissão regulamentada para cliente final:** esta skill **não** serve para página de serviço a cliente final quando o conselho proíbe preço, promessa de resultado, condição de pagamento ou captação mercantil, como na advocacia (Código de Ética da OAB e Provimento 205/2021). Use uma página informativa e sóbria, de captação.
+- **Infoproduto (para consumidor ou para profissionais):** regras da Meta e do Código de Defesa do Consumidor. Sem antes e depois pessoal, sem promessa de renda ou cura, sem "oferta por tempo limitado" falsa, sem preço "de" que nunca existiu, sem depoimento inventado, rodapé de não afiliação ao Facebook e aviso de que resultados variam. Modelos de contrato e documentos: avisar que são referência e precisam de adaptação ao caso.
 - **Nenhum número inventado.** Compradores, alunos, faturamento, anos de experiência: só os confirmados no briefing. O que não estiver confirmado vai como `[[confirmar: …]]` e não sobe.
 
 ## Referências

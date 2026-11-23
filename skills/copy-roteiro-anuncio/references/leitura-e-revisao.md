@@ -50,7 +50,7 @@ Todo roteiro passa por leitura ativa antes de ir para a gravação (OnClass: an�
 - [ ] Nenhuma promessa de resultado com prazo; nenhuma escassez falsa; nenhum preço riscado inventado.
 - [ ] Nenhum atributo pessoal do espectador afirmado.
 - [ ] Nenhuma marca, rosto, voz ou música de terceiros sem direito.
-- [ ] Compliance do nicho (advocacia para cliente final: sem promessa, sem preço, sem caso real, sem autoengrandecimento).
+- [ ] Compliance do nicho (profissão regulamentada para cliente final, como advocacia: sem promessa, sem preço, sem caso real, sem autoengrandecimento).
 
 ## 4. Erros que mais aparecem
 

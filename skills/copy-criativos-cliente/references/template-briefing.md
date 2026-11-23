@@ -21,7 +21,7 @@ Copie este arquivo para o projeto do cliente como `copy/briefing-<cliente>[-prod
 | Página de destino (URL, variantes) e plataforma de pagamento | |
 | Conta de anúncio e campanhas relevantes | |
 | Meta do cliente (CPA, custo por lead qualificado, ROAS, volume) | |
-| Classe de compliance (A advocacia p/ cliente final · B infoproduto/profissional · C outro; nicho sensível?) | |
+| Classe de compliance (A profissão regulamentada p/ cliente final · B infoproduto · C outro; nicho sensível?) | |
 | Quem aprova copy, verba e subida | |
 | Onde ficam os criativos, o histórico e as transcrições | |
 

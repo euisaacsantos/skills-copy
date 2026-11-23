@@ -45,7 +45,7 @@ Tabela com uma linha por gancho:
 
 ## Compliance (curto)
 
-- **Advocacia anunciando para cliente final** (Código de Ética e Disciplina da OAB e Provimento 205/2021): o formato e o gancho de dor servem, mas sem promessa de resultado, sem preço ou condição de pagamento, sem sensacionalismo, sem caso concreto de cliente e sem autoengrandecimento. Gancho de "erro invisível" vira informação ("três sinais de que…"), nunca "ganhe sua causa".
+- **Profissão regulamentada anunciando para cliente final** (ex.: advocacia, pelo Código de Ética e Disciplina da OAB e pelo Provimento 205/2021; nas outras, o código do conselho): o formato e o gancho de dor servem, mas sem promessa de resultado, sem preço ou condição de pagamento, sem sensacionalismo, sem caso concreto de cliente e sem autoengrandecimento. Gancho de "erro invisível" vira informação ("três sinais de que…"), nunca "ganhe sua causa".
 - **Infoproduto e qualquer anúncio na Meta**: nada de afirmar atributo pessoal do espectador ("você está endividado?", "você tem depressão?"), antes e depois corporal, promessa de renda ou cura. Fale da situação ou da prática ("quem paga fornecedor no cartão…"), não da condição da pessoa.
 - **Nenhum número inventado.** Número no gancho só se estiver no briefing como confirmado. Se o cliente não confirmou, escreva o gancho sem o número e marque a lacuna.
 

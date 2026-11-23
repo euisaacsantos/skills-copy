@@ -50,7 +50,7 @@ Você escreve o que é dito e mostrado depois do gancho. O formato atrai, o ganc
 
 ## Compliance (curto)
 
-- **Advocacia para cliente final** (Código de Ética da OAB e Provimento 205/2021): roteiro informativo; sem promessa de resultado, sem preço ou forma de pagamento, sem caso concreto de cliente, sem autoengrandecimento, sem pressa ou escassez. A CTA convida a entender a situação, não a "garantir" um resultado.
+- **Profissão regulamentada para cliente final** (ex.: advocacia, pelo Código de Ética da OAB e pelo Provimento 205/2021; nas outras, o código do conselho): roteiro informativo; sem promessa de resultado, sem preço ou forma de pagamento, sem caso concreto de cliente, sem autoengrandecimento, sem pressa ou escassez. A CTA convida a entender a situação, não a "garantir" um resultado.
 - **Infoproduto e demais anúncios na Meta**: sem antes e depois pessoal, sem afirmar atributo pessoal do espectador, sem promessa de renda ou cura, sem escassez ou preço riscado falsos.
 - **Nenhum número inventado.** Prova só com dado real do cliente; o que estiver "a confirmar" no briefing fica fora do roteiro ou entra como lacuna marcada.
 

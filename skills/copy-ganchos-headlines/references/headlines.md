@@ -95,4 +95,4 @@ Teste prático: leia a headline e pergunte "o que eu ganho?" (promessa), "como?"
 - [ ] Usa palavra que o público usa.
 - [ ] Não promete o que o produto não entrega (prazo, valor, resultado garantido).
 - [ ] Bate com o anúncio que leva até ela.
-- [ ] Em advocacia para cliente final: informativa, sem promessa de resultado, sem preço, sem autoengrandecimento.
+- [ ] Em profissão regulamentada para cliente final (ex.: advocacia): informativa, sem promessa de resultado, sem preço, sem autoengrandecimento.

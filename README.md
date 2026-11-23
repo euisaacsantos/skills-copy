@@ -6,7 +6,7 @@ Cinco skills do Claude Code para criar copy e criativos de tráfego pago para cl
 
 | Skill | Para que serve |
 |---|---|
-| `copy-criativos-cliente` | É a porta de entrada: "cria criativos para o cliente X". Monta o briefing do cliente em `copy/briefing-<cliente>.md` no projeto, chama as outras quatro, checa as regras da OAB e da Meta e só aceita números reais. |
+| `copy-criativos-cliente` | É a porta de entrada: "cria criativos para o cliente X". Monta o briefing do cliente em `copy/briefing-<cliente>.md` no projeto, chama as outras quatro, checa as regras do nicho (conselhos de classe, como a OAB) e da Meta e só aceita números reais. |
 | `copy-ganchos-headlines` | Ganchos e headlines por nível de consciência e por ângulo. |
 | `copy-formatos-criativo` | 76 formatos de criativo, cada um com a descrição de como fica na tela. |
 | `copy-roteiro-anuncio` | Roteiros de anúncio: 34 modelos em 5 famílias, mais as variações de um criativo que já funcionou. |

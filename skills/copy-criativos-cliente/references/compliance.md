@@ -1,6 +1,6 @@
 # Compliance de copy e criativo
 
-Resumo operacional para a agência. Não é parecer jurídico: em caso de dúvida sobre um anúncio de advocacia, o responsável técnico do escritório decide, e o texto vigente das normas prevalece sobre este resumo.
+Resumo operacional para a agência. Não é parecer jurídico: em caso de dúvida sobre um anúncio de profissão regulamentada, o responsável técnico do cliente decide, e o texto vigente das normas prevalece sobre este resumo.
 
 ## Regra que vale para todos os clientes
 
@@ -10,7 +10,13 @@ Resumo operacional para a agência. Não é parecer jurídico: em caso de dúvid
 - O que estiver "a confirmar" fica fora do criativo ou entra como `[[confirmar: …]]`, que bloqueia a subida.
 - Depoimento: pessoa real, com autorização por escrito para uso de imagem e de fala. Ator não é apresentado como cliente.
 
-## Classe A — escritório de advocacia anunciando para cliente final
+## Classe A — profissão regulamentada anunciando para cliente final
+
+Advocacia, medicina, odontologia, psicologia, nutrição, contabilidade e outras profissões com conselho de classe têm código de publicidade próprio. Antes de escrever, leia o texto vigente do conselho do cliente. O espírito costuma ser o mesmo: informar com sobriedade, sem promessa de resultado e sem mercantilizar a profissão.
+
+O exemplo abaixo é o da advocacia, o mais detalhado desta referência. Use-o como modelo de leitura para os outros conselhos, não como regra deles.
+
+### Exemplo: advocacia (OAB)
 
 Normas: Código de Ética e Disciplina da OAB (capítulo da publicidade profissional) e Provimento 205/2021 do Conselho Federal da OAB, que regula a publicidade e o marketing jurídico, incluindo anúncio pago e impulsionamento.
 
@@ -34,9 +40,9 @@ Normas: Código de Ética e Disciplina da OAB (capítulo da publicidade profissi
 
 **Na prática:** o formato e o gancho servem; a promessa e a oferta não. Revise cada roteiro procurando: número de resultado, preço, "garantido", "o melhor", caso real, pressa.
 
-## Classe B — infoproduto, mentoria, evento para profissionais (inclusive advogados)
+## Classe B — infoproduto, mentoria, evento (para consumidor ou para profissionais)
 
-Aqui quem anuncia vende educação, não serviço jurídico ao cliente final. Valem as regras da Meta e do Código de Defesa do Consumidor. Se o especialista é advogado, ainda vale bom senso: não usar casos de clientes do escritório como prova, não misturar a marca do escritório com a do educacional, e deixar claro na página que o produto não é oferta de serviço jurídico.
+Aqui quem anuncia vende educação, não o serviço profissional ao cliente final. Valem as regras da Meta e do Código de Defesa do Consumidor. Se o especialista exerce profissão regulamentada, ainda vale bom senso: não usar casos de clientes do serviço como prova, não misturar a marca do serviço com a do produto educacional e deixar claro na página que o produto não é oferta do serviço.
 
 ## Políticas da Meta que mais derrubam anúncio (todas as classes)
 
@@ -60,7 +66,7 @@ Aqui quem anuncia vende educação, não serviço jurídico ao cliente final. Va
 - [ ] Classe do cliente identificada (A, B ou C) e regras aplicadas.
 - [ ] Nenhum número sem fonte; marcadores "a confirmar" fora do que vai ao ar.
 - [ ] Nenhuma promessa de resultado com prazo ou valor (obrigatório na classe A; recomendado em B e C).
-- [ ] Classe A: sem preço, sem gratuidade, sem caso real, sem superlativo, sem urgência.
+- [ ] Classe A: regras do conselho do cliente aplicadas (na advocacia: sem preço, sem gratuidade, sem caso real, sem superlativo, sem urgência).
 - [ ] Nenhum atributo pessoal afirmado; nenhum antes e depois pessoal.
 - [ ] Nenhuma marca, logo, rosto, voz ou música de terceiros sem direito.
 - [ ] Dados de pessoas borrados; autorizações de imagem existentes.

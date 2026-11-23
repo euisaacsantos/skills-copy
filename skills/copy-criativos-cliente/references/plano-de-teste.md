@@ -19,7 +19,7 @@ A régua acima foi feita para low ticket que se paga no front (com bump e upsell
 - **o CPA atual é várias vezes o ticket**: com ½ ticket por dia por 3 dias, cada criativo gasta 1,5 ticket e não chega a uma venda; o teste não separa nada.
 
 Nesses casos, troque:
-- **Verba por criativo:** o suficiente para ~2 a 3 vezes o CPA alvo no período (ex.: CPA alvo de R$ 130 → ~R$ 300 a 400 por criativo em 4 a 5 dias).
+- **Verba por criativo:** o suficiente para ~2 a 3 vezes o CPA alvo no período (ex.: CPA alvo de R$ 100 → ~R$ 200 a 300 por criativo em 4 a 5 dias).
 - **Métrica de leitura antecipada:** o passo com volume mais perto da venda (custo por início de checkout, custo por lead qualificado). Converta em CPA esperado com a taxa histórica do passo seguinte (ex.: CPA ≈ custo por checkout ÷ taxa checkout → compra).
 - **Critério de vencedor:** a meta real do cliente (CPA ou custo por MQL) com um mínimo de vendas; o ROI com bump e upsell entra como leitura secundária.
 - **Controle:** o criativo campeão atual dentro do teste, com a mesma verba, como régua do lote. Se o controle sair muito fora do normal no lote, compare os desafiantes com ele, não com o número absoluto.

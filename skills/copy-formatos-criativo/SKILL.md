@@ -36,7 +36,7 @@ O formato é a embalagem; a copy é o conteúdo. A mesma mensagem vencedora rend
 
 ## Compliance (curto)
 
-- **Advocacia para cliente final** (Código de Ética da OAB e Provimento 205/2021): o formato serve (caixinha, explicação, "3 sinais", tela dividida com documento, corte de podcast), a promessa e a oferta não. Sem promessa de resultado, sem preço, sem caso real de cliente, sem ostentação, sem "Choquei" com caso de cliente, sem moldura de notícia que pareça imprensa. Formatos de humor de massa e de fofoca tendem a atrair lead ruim e a ferir a sobriedade exigida.
+- **Profissão regulamentada para cliente final** (ex.: advocacia, pelo Código de Ética da OAB e pelo Provimento 205/2021; nas outras, o código do conselho): o formato serve (caixinha, explicação, "3 sinais", tela dividida com documento, corte de podcast), a promessa e a oferta não. Sem promessa de resultado, sem preço, sem caso real de cliente, sem ostentação, sem "Choquei" com caso de cliente, sem moldura de notícia que pareça imprensa. Formatos de humor de massa e de fofoca tendem a atrair lead ruim e a ferir a sobriedade exigida.
 - **Infoproduto e demais anúncios na Meta**: sem antes e depois corporal, sem atributo pessoal do espectador, sem promessa de renda ou cura, sem imagem de terceiros sem autorização, sem música comercial não licenciada (use a biblioteca de sons da Meta).
 - **Prova só com dado real do cliente.** Print, depoimento e número só se existirem e estiverem autorizados; nome e foto de terceiros sempre borrados.
 

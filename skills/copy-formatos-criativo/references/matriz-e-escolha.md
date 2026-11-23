@@ -79,8 +79,8 @@ Escala: · não serve · ● serve pouco · ●● bom · ●●● dos melhores
 7. Depoimento e POV + depoimento — os únicos com nota máxima em prova; exigem cliente real e autorização.
 8. Leia a legenda e Copy no papel — testam copy longa e a conta do erro com custo perto de zero (leia a legenda serve ao feed).
 
-**Advocacia anunciando para cliente final (mais sóbrio, menos risco)**
-- Funcionam: caixinha de pergunta, explicação dinâmica, palestrinha com "3 sinais de que…", tela dividida com documento ou print (sem dados de cliente), corte de podcast, trivial, notícia **com fato jurídico real** e cabeçalho próprio.
+**Profissão regulamentada anunciando para cliente final, como advocacia (mais sóbrio, menos risco)**
+- Funcionam: caixinha de pergunta, explicação dinâmica, palestrinha com "3 sinais de que…", tela dividida com documento ou print (sem dados de cliente), corte de podcast, trivial, notícia **com fato real do setor** e cabeçalho próprio.
 - Evitar: choquei, fofoca, jornal, experimento social com "caso real", depoimento de cliente com resultado, oferta direta com preço, humor de massa, edit com ostentação.
 
 **Por nicho (citados nas aulas)**
